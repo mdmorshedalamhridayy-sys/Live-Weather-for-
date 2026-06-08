@@ -1,0 +1,6 @@
+{
+  "name": "Live Weather Alert",
+  "description": "Pre-emptive weather alerts, dynamic satellite view simulator, custom warning visualizers for districts in Bangladesh and global cities, weather reports sharing, and storm-tracking badge awards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
